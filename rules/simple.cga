@@ -1,0 +1,17 @@
+/**
+ * File:    simple.cga
+ * Created: 13 Sep 2021 13:37:24 GMT
+ * Author:  twak
+ */
+
+version "2020.1"
+
+Lot --> A
+
+LotInner --> A
+
+Street --> extrude (50)
+
+Sidewalk --> A
+
+A --> extrude (10)
