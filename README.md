@@ -4,9 +4,9 @@ Label generation for [SSS](https://vcg.leeds.ac.uk/projects/sss/) using CityEngi
 
 This CE project creates label maps like these:
 
-![Labels from scene 1](https://github.com/twak/labelled_international_city/blob/main/images/scene1.png?raw=true)
-
 ![Labels from scene 1](https://github.com/twak/labelled_international_city/blob/main/images/scene2.png?raw=true)
+
+![Labels from scene 1](https://github.com/twak/labelled_international_city/blob/main/images/scene1.png?raw=true)
 
 Which [SSS](https://vcg.leeds.ac.uk/projects/sss/) converts into satellite images:
 
